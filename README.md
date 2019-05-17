@@ -1,15 +1,17 @@
-# Web API IV Challenge
+# Web API III Guided Project
 
-In this challenge, you will **deploy** an API of your choosing to `heroku`.
+Guided project for **Web API III** module.
 
-## Instructions
+In this project we will learn how to create a very simple Web API using `Node.js` and `Express`, and learn tu use and create `Express Middleware`.
 
-You are allowed, and **encouraged**, to collaborate with other peers. Please follow the twenty-minute rule, before seeking support from your PM and Instructor.
+## Prerequisites
 
-## Minimum Viable Product
+- [Postman](https://www.getpostman.com/downloads/) installed.
 
-Pick any API, could be one of your past projects, and deploy it to `heroku`. Once deployed, send the URL to the PM for your group.
+## Project Setup
 
-## Stretch Goal
+- [ ] fork and clone this repository.
+- [ ] **CD into the folder** where you cloned **your fork**.
+- [ ] type `yarn` or `npm i` to download dependencies.
 
-- add support for environment variables using `.env` files. You can use the [dotenv](https://www.npmjs.com/package/dotenv) npm module.
+Please follow along as the instructor creates and adds `middleware` to the API step by step.
